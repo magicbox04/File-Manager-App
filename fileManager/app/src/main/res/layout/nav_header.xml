@@ -8,12 +8,12 @@
     android:padding="16dp"
     android:gravity="bottom"
     >
-<ImageView
+    <ImageView
     android:src="@mipmap/ic_launcher"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content">
     
-</ImageView>
+    </ImageView>
     <TextView
         android:text="File Explorer"
         android:textColor="@color/white"
